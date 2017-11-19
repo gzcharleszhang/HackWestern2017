@@ -10052,3 +10052,16 @@ Make sure 'LevelMap_C' has been compiled for  Get Opened?
 [2017.11.19-01.53.20:185][643]LogSavePackage: Moving '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Saved/Book_Low_Text8BC6B3484CE64835E794B28F3A7A385B.tmp' to '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Content/FirstPersonBP/Blueprints/Book_Low_Text.uasset'
 [2017.11.19-01.53.20:187][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Content/FirstPersonBP/Blueprints/Book_Low_Text.uasset
 [2017.11.19-01.53.21:919][743]BlueprintLog: New page: Compile Book_Low_Text
+[2017.11.19-02.02.14:561][384]LogSavePackage: Save=323.89ms
+[2017.11.19-02.02.14:562][384]LogSavePackage: Moving '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Saved/LevelMap_Auto24E23334A48EE445CED034F931085DB90.tmp' to '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Saved/Autosaves/Game/IMPORTS/LevelMap_Auto2.umap'
+[2017.11.19-02.02.14:563][384]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Saved/Autosaves/Game/IMPORTS/LevelMap_Auto2.umap
+[2017.11.19-02.02.14:565][384]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IMPORTS/LevelMap' took 0.370
+[2017.11.19-02.02.14:565][384]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.370
+[2017.11.19-02.52.42:443][449]Cmd: TRANSACTION UNDO
+[2017.11.19-02.52.42:443][449]LogEditorTransaction: Undo Create Actors
+[2017.11.19-02.53.42:598][500]LogSavePackage: Save=31.56ms
+[2017.11.19-02.53.42:598][500]LogSavePackage: Moving '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Saved/Book_Low_Text08B082E24C0FDF9321349BAFA50C0326.tmp' to '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Content/FirstPersonBP/Blueprints/Book_Low_Text.uasset'
+[2017.11.19-02.53.42:604][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Content/FirstPersonBP/Blueprints/Book_Low_Text.uasset
+[2017.11.19-02.53.42:876][509]LogSavePackage: Save=31.69ms
+[2017.11.19-02.53.42:877][509]LogSavePackage: Moving '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Saved/Book_Low_Text60EE2E0049870AC0C555C79950D3B62D.tmp' to '../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Content/FirstPersonBP/Blueprints/Book_Low_Text.uasset'
+[2017.11.19-02.53.42:882][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/haiti/Documents/GitHub/HackWestern2017/THE GAME/HW_2017/Content/FirstPersonBP/Blueprints/Book_Low_Text.uasset
